@@ -1,0 +1,6 @@
+{
+  "name": "Pick Pixel",
+  "description": "A puzzle game where you identify the odd-colored pixel in an evolving grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
